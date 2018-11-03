@@ -1,0 +1,4 @@
+<div class="invoice" *ngFor="let invoice of invoiceIds; let i = index">
+  <h1>Invoice Num. {{ invoice }}</h1>
+  Amount: {{ (invoiceDetails[i] | async)?.amount }}
+</div>
