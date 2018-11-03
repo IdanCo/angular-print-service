@@ -1,5 +1,7 @@
 # AngularPrintService
 
+This is a demo project implementing [This Article](https://medium.com/@Idan_Co/angular-print-service-290651c721f9)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
